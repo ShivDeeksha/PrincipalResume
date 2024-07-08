@@ -72,6 +72,9 @@ a {
   text-decoration: none;
   transition: 0.3s;
 }
+p{
+  text-align: justify;
+}
 
 a:hover {
   color: color-mix(in srgb, var(--accent-color), transparent 25%);
